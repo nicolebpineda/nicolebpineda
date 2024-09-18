@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicole</h1>
 <h3 align="center">A Full Stack Software Engineer based in Salt Lake City, UT</h3>
 
-- 🔭 I’m currently working on **County Renaissance fair**
+- 🔭 I’m currently working on **County Renaissance Fair**
 
 - 🌱 I’m currently learning **React**
 
